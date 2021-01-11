@@ -29,33 +29,33 @@
 
         var items = [
         {
-                mark: "МОлоко",
-                quantity: 124241,
+                mark: "Молоко",
+                quantity: 125,
                 show : true
             },
             {
                 mark: "Гарний йогурт",
-                quantity: 123213,
+                quantity: 95,
                  show : true
             },
             {
-                mark: "Найкращий",
+                mark: "Найкращий йогурт",
                 quantity: 12,
                  show : true
             },
             {
-                mark: "Мій",
-                quantity: 32,
+                mark: "Йогурт №1 в Україні",
+                quantity: 39,
                  show : true
             },
             {
-                mark: "Файний",
+                mark: "Файний йогурт",
                 quantity: 4,
                  show : true
             },
             {
-                mark: "РРАААПАП",
-                quantity: 333,
+                mark: "Наш йогурт",
+                quantity: 33,
                  show : true
             },
         ];
